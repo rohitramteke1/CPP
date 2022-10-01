@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "utility": "cpp",
+        "iostream": "cpp",
+        "set": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "type_traits": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "algorithm": "cpp",
+        "iterator": "cpp",
+        "charconv": "cpp",
+        "ostream": "cpp",
+        "queue": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "xstddef": "cpp",
+        "stack": "cpp",
+        "map": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
